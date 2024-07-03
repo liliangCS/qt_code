@@ -2,3 +2,4 @@
 
 1. [QStringList](https://github.com/liliangCS/qt_code/blob/main/QStringList.md)
 2. [QString](https://github.com/liliangCS/qt_code/blob/main/QString.md)
+3. [QSettings](https://github.com/liliangCS/qt_code/blob/main/QSettings.md)
